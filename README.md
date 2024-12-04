@@ -1,6 +1,6 @@
 # 💻 Brute force en C
 
-Ce programme en C simule un "craqueur" de mot de passe. Son objectif est éducatif : sensibiliser à l'importance d'utiliser des mots de passe robustes en montrant la facilité avec laquelle des mots de passe faibles peuvent être simulés et "craqués".
+Ce programme en C craque vos mot de passe. Son objectif est éducatif : sensibiliser à l'importance d'utiliser des mots de passe robustes en montrant la facilité avec laquelle des mots de passe faibles peuvent être simulés et "craqués".
 
 ---
 
