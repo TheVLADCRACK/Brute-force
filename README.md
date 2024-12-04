@@ -1,6 +1,4 @@
-#BRUTE FORCE
-
-# 💻 Générateur de mot de passe simulé en C
+# 💻 Brute force en C
 
 Ce programme en C simule un "craqueur" de mot de passe. Son objectif est éducatif : sensibiliser à l'importance d'utiliser des mots de passe robustes en montrant la facilité avec laquelle des mots de passe faibles peuvent être simulés et "craqués".
 
@@ -17,9 +15,12 @@ Ce programme en C simule un "craqueur" de mot de passe. Son objectif est éducat
 1. Clonez ce dépôt ou copiez le code source dans un fichier local.
 2. Compilez le programme avec GCC :
    ```bash
-   gcc -o cracker cracker.c
+   gcc -o brute\ force -o brute\ force.c
+   ```
+3. Executez :
+   ```bash
+   ./brute/ force
    ```
 
-
-
+---
 Programme en C simulant un "craqueur" de mot de passe pour sensibiliser à l'importance de la sécurité. Génère des tentatives aléatoires jusqu'à correspondre au mot de passe entré. Affichage dynamique en console, avec un style humoristique et éducatif sur la robustesse des mots de passe.
